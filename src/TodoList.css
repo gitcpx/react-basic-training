@@ -1,0 +1,17 @@
+
+.todo-row > div {
+    display: inline-block;
+}
+.icons {
+
+}
+.edit-button {
+    margin-left: 5px;
+    color: white;
+    background-color: blue;
+}
+.remove-button {
+    margin-left: 5px;
+    color: white;
+    background-color: red;
+}
